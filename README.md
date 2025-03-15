@@ -1,5 +1,5 @@
 - 👋 *Hello world*, I’m @Denwin365
-- 👀 I’m interested in BioMedical Technologies, Infomatics and Research
+- 👀 I’m interested in Biomedical and Diagnostic Research
 - 🌱 I’m currently learning and growing bigger
 - 💞️ I’m looking forward to collaborate on Projects
 - 📫 Reach me denwin365@gmail.com 
